@@ -48,6 +48,7 @@ Get involved in the various communities in the ecosystem:
 * [NEAR Francais](https://t.me/NearFrancais): NEAR French community
 * [NEAR Hispano](http://t.me/NEARHispano): For Spanish-speaker developers
 * [NEAR India](https://t.me/cryptonear_IN): NEAR INDIA community
+* [NEAR Indonesia](https://t.me/NEARIndonesiaHQ): NEAR Indonesia community
 * [NEAR Korea](https://t.me/nearprotocol_korea): NEAR Korea community
 * [NEAR Malaysia](https://t.me/NEAR_Malaysia): NEAR Malaysia community
 * [NEAR Mexico](https://t.me/joinchat/SuhzirHG_S04MjQx): NEAR Mexico community
